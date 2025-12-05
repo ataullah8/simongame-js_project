@@ -1,4 +1,4 @@
-# JS-Project
+# simongame-js_project
 
 This is my JavaScript project hosted using *GitHub Pages*.
 
